@@ -76,14 +76,8 @@ Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp,python,kotlin,svelte,react,vue,nextjs,nuxtjs,vite,laravel,tailwind,nodejs,postgres,mongodb,supabase,drizzle,cloudflare,vercel,netlify,gcp,git,github,vscode,figma,eslint,gradle&theme=dark&perline=12" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp,python,kotlin,svelte,react,vue,nextjs,nuxtjs,vite,laravel,tailwind,nodejs,postgres,mongodb,supabase,cloudflare,vercel,netlify,gcp,git,github,vscode,figma,gradle,godot,notion&theme=dark&perline=12" alt="My Skills" />
   </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-ElysiaJS-f16091?style=flat-square" alt="ElysiaJS" />
-  <img src="https://img.shields.io/badge/-Tiptap-000000?style=flat-square" alt="Tiptap" />
-  <img src="https://img.shields.io/badge/-Neon_Console-00E599?style=flat-square&logoColor=black" alt="Neon" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 <br />

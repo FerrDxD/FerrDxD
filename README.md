@@ -76,8 +76,14 @@ Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp,python,kotlin,svelte,react,vue,nextjs,nuxtjs,vite,laravel,tailwind,nodejs,postgres,mongodb,supabase,drizzle,cloudflare,vercel,netlify,gcp,git,github,vscode,figma,eslint,gradle,canva,elysia,tiptap,neon&theme=dark&perline=12" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp,python,kotlin,svelte,react,vue,nextjs,nuxtjs,vite,laravel,tailwind,nodejs,postgres,mongodb,supabase,drizzle,cloudflare,vercel,netlify,gcp,git,github,vscode,figma,eslint,gradle&theme=dark&perline=12" alt="My Skills" />
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-ElysiaJS-f16091?style=flat-square" alt="ElysiaJS" />
+  <img src="https://img.shields.io/badge/-Tiptap-000000?style=flat-square" alt="Tiptap" />
+  <img src="https://img.shields.io/badge/-Neon_Console-00E599?style=flat-square&logoColor=black" alt="Neon" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 <br />
@@ -86,10 +92,10 @@ Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya d
 
 <p align="center">
   <a href="https://github.com/FerrDxD">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=FerrDxD&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=FerrDxD&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777&icon_color=38B2AC" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/FerrDxD">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=FerrDxD&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777" alt="Top Languages" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FerrDxD&theme=transparent" alt="Top Languages" />
   </a>
 </p>
 

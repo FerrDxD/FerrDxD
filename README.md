@@ -25,7 +25,7 @@
 
 <br />
 
-## 🚀 Featured Projects (Portfolio)
+## 🚀 Featured Projects
 
 Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya dalam *UI/UX*, *Artificial Intelligence*, dan arsitektur *frontend* modern:
 
@@ -76,7 +76,7 @@ Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,svelte,python,react,nextjs,tailwind,nodejs,postgres,git,github,vscode,figma&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp,python,kotlin,svelte,react,vue,nextjs,nuxtjs,vite,laravel,tailwind,nodejs,postgres,mongodb,supabase,drizzle,cloudflare,vercel,netlify,gcp,git,github,vscode,figma,eslint,gradle,canva,elysia,tiptap,neon&theme=dark&perline=12" alt="My Skills" />
   </a>
 </p>
 
@@ -86,10 +86,10 @@ Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya d
 
 <p align="center">
   <a href="https://github.com/FerrDxD">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerrDxD&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=FerrDxD&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/FerrDxD">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrDxD&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=FerrDxD&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777" alt="Top Languages" />
   </a>
 </p>
 

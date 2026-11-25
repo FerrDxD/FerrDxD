@@ -1,39 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20FerrDxD!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20&%20UI/UX%20Enthusiast&descAlignY=55&descAlign=62" alt="Header Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&width=1200&section=header&text=Hi,%20I'm%20FerrDxD!&fontSize=44&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%26%20UI%2FUX%20Enthusiast&descAlignY=52&descAlign=60" alt="Header banner" width="1200" height="200" />
+
 </div>
 
-<h1 align="center">✨ Crafting Digital Experiences ✨</h1>
+<h1 align="center">FerrDxD</h1>
 
 <p align="center">
-  <i>Saya adalah seorang developer yang berfokus pada pembuatan aplikasi interaktif, game berbasis logika, dan platform yang ditenagai oleh AI.<br>Saya memadukan kode dan desain untuk menciptakan pengalaman pengguna yang mulus, fungsional, dan profesional.</i>
+  Saya adalah fullstack developer dan penggemar UI/UX yang membuat aplikasi interaktif, game berbasis logika, dan platform yang ditenagai oleh AI. Kode dan desain saya berpadu untuk menciptakan pengalaman pengguna yang mulus, fungsional, dan profesional.
 </p>
 
+<br />
+
 <div align="center">
-  <a href="https://github.com/FerrDxD">
-    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-  </a>
-  <a href="https://github.com/FerrDxD">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://github.com/FerrDxD">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-  <a href="https://github.com/FerrDxD">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
+
+<a href="https://github.com/FerrDxD">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+</a>
+<a href="https://github.com/FerrDxD">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</a>
+<a href="https://github.com/FerrDxD">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</a>
+<a href="https://github.com/FerrDxD">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</a>
+
 </div>
 
 <br />
 
-## 🚀 Featured Projects
+## 🚀 Proyek Unggulan
 
-Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya dalam *UI/UX*, *Artificial Intelligence*, dan arsitektur *frontend* modern:
+Beberapa proyek yang mencerminkan eksplorasi saya dalam UI/UX, kecerdasan buatan, dan arsitektur frontend modern.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/FerrDxD/elenchus">Elenchus</a></h3>
-      <p>Game teka-teki logika interaktif dengan <i>real-time circuit simulation engine</i> dan antarmuka bertema cyberpunk yang responsif.</p>
+      <h3>🧩 Elenchus</h3>
+      <p>Game teka-teki logika interaktif dengan mesin simulasi rangkaian dalam waktu nyata dan antarmuka bertema cyberpunk yang responsif.</p>
+      <p>
+        <a href="https://github.com/FerrDxD/elenchus">Lihat proyek</a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -41,8 +50,11 @@ Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya d
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚔️ <a href="https://github.com/FerrDxD/casus-belli">Casus Belli</a></h3>
-      <p>Game strategi <i>turn-based</i> bertenaga AI yang mengubah penalaran logis, retorika, dan akurasi faktual menjadi <i>gameplay</i> taktis.</p>
+      <h3>⚔️ Casus Belli</h3>
+      <p>Game strategi bergiliran bertenaga AI yang mengubah penalaran logis, retorika, dan akurasi faktual menjadi gameplay taktis.</p>
+      <p>
+        <a href="https://github.com/FerrDxD/casus-belli">Lihat proyek</a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/-Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte 5" />
         <img src="https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
@@ -52,16 +64,22 @@ Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya d
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌌 <a href="https://github.com/FerrDxD/elegy">Elegy</a></h3>
+      <h3>🌌 Elegy</h3>
       <p>Platform refleksi diri berbasis AI yang menggabungkan AI generatif, penulisan jurnal pribadi, dan desain web sinematik.</p>
+      <p>
+        <a href="https://github.com/FerrDxD/elegy">Lihat proyek</a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/-GenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="GenAI" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌸 <a href="https://github.com/FerrDxD/AI-Waifu">AI-Waifu</a></h3>
-      <p>Aplikasi produktivitas terinspirasi Visual Novel dengan <i>AI companion</i>, interaksi dinamis, manajemen tugas, dan alat fokus.</p>
+      <h3>🌸 AI-Waifu</h3>
+      <p>Aplikasi produktivitas terinspirasi visual novel dengan AI companion, interaksi dinamis, manajemen tugas, dan alat fokus.</p>
+      <p>
+        <a href="https://github.com/FerrDxD/AI-Waifu">Lihat proyek</a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/-Productivity-4CAF50?style=flat-square" alt="Productivity" />
@@ -72,7 +90,7 @@ Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya d
 
 <br />
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Alat
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -82,19 +100,21 @@ Di bawah ini adalah beberapa proyek unggulan yang mencerminkan eksplorasi saya d
 
 <br />
 
-## 📊 Analytics
+## 📊 Analitik GitHub
 
 <p align="center">
   <a href="https://github.com/FerrDxD">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=FerrDxD&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777&icon_color=38B2AC" alt="GitHub Stats" />
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=FerrDxD&theme=transparent&hide_border=true&title_color=2563EB&text_color=666666&icon_color=2563EB" alt="GitHub Streak Stats" />
   </a>
   <a href="https://github.com/FerrDxD">
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FerrDxD&theme=transparent" alt="Top Languages" />
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FerrDxD&theme=transparent" alt="Top Languages" />
   </a>
 </p>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Building+experiences;Solving+complex+problems;Always+learning" alt="Typing SVG" />
+  <a href="https://github.com/FerrDxD">
+    <img src="https://img.shields.io/badge/Follow-GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
 </div>
